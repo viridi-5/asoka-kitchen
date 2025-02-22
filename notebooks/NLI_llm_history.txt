@@ -1,0 +1,578 @@
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Watch as this Dodge Challenger Hellcat gets smoked by a Tesla Model S at the drag strip.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to[32m determine if the sentence is grammatically correct. We observe that the sentence follows a subject-verb-object structure, with "Watch" as the subject, "gets smoked" as the verb phrase, and "by a Tesla Model S at the drag strip" as the object. The verb tense is also consistent within the sentence. Therefore, Yes, the given text is grammatically correct.[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Watch as this Dodge Challenger Hellcat gets smoked by a Tesla Model S at the drag strip.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to determine if the sentence is grammatically correct. We observe that the sentence follows a subject-verb-object structure, with "Watch" as the subject, "gets smoked" as the verb phrase, and "by a Tesla Model S at the drag strip" as the object. The verb tense is also consistent within the sentence. Therefore, Yes, the given text is grammatically correct.
+
+Entailment:[32m Yes[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Watcch as this Dodge Challenger Hellcat gets smoked by a Tesla Model S - with the drag strip.
+
+Hypothesis: The given text is Grammatically wrong
+
+Reasoning: Let's think step by step in order to[32m determine if the given text is grammatically correct. We can see that "Watcch" is misspelled as "Watch". Therefore, the hypothesis is not validated because the given text is not grammatically incorrect due to a spelling error.
+
+Entailment: No[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Momover, these devices have been proven to help consumers during another company his information.
+Reasoning: Let's think step by step in order to[32m classify whether this sentence is grammatically correct. We notice that there seems to be a typo in the first word "Momover". The intended word should be "Mover". After correcting the typo, the corrected sentence would be "Mover, these devices have been proven to help consumers during another company's information." This sentence is grammatically correct.
+
+Answer: Yes[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Moreover, these devices are proven to help consumers while another company that information.
+Reasoning: Let's think step by step in order to[32m classify whether this sentence is grammatically correct. We notice that there seems to be a missing subject for the second clause "another company that information." and also a missing verb after "proven". The intended meaning might have been "Moreover, these devices are proven to help consumers; another company provides such information." or similar. However, without the necessary corrections, the sentence is not grammatically correct.
+
+Answer: No[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Moreover, these devices are proven to help consumers while another company that information.
+
+Hypothesis: The given text is Grammatically wrong
+
+Reasoning: Let's think step by step in order to[32m determine if the text is grammatically correct. We can analyze the structure of the sentence and its components. In this case, the sentence "Moreover, these devices are proven to help consumers while another company that information" seems to be missing a subject for the second clause ("while another company that information"). Therefore, it appears to be grammatically incorrect.
+
+Entailment: Yes[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Momover, these devices have been proven to help consumers during another company his information.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to[32m determine if the sentence is grammatically correct. We can analyze the structure of the sentence and its components. In this case, the subject "Momover" is a noun, the verb "have been proven" is a verb tense, and the object "these devices" follows the verb. The sentence also contains a prepositional phrase "to help consumers during another company his information." The subject-verb agreement seems correct as there is a singular subject and a plural verb. However, the preposition "his" does not seem to agree with any noun in the sentence, which could potentially make it grammatically incorrect. But without knowing the intended meaning of "his," it's hard to definitively say whether the[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Ever cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle the course while the leader kicked on on the stands’ high rail.
+Reasoning: Let's think step by step in order to[32m determine whether this sentence is grammatically correct. We will analyze the structure of the sentence and check for any grammatical errors, such as subject-verb agreement, proper use of punctuation, and correct word usage.
+
+Answer: Yes[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Momover, these devices have been proven to help consumers during another company his information.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to determine if the sentence is grammatically correct. We can analyze the structure of the sentence and its components. In this case, the subject "Momover" is a noun, the verb "have been proven" is a verb tense, and the object "these devices" follows the verb. The sentence also contains a prepositional phrase "to help consumers during another company his information." The subject-verb agreement seems correct as there is a singular subject and a plural verb. However, the preposition "his" does not seem to agree with any noun in the sentence, which could potentially make it grammatically incorrect. But without knowing the intended meaning of "his," it's hard to definitively say whether the
+
+Entailment:[32m No, the given text is not necessarily grammatically correct because the preposition "his" does not seem to agree with any noun in the sentence, which could potentially make it grammatically incorrect. However, without knowing the intended meaning of "his," it's hard to definitively say whether the sentence is grammatically incorrect or not.[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Ever cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle the course while the leader kicked on on the stands’ high rail.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to[32m determine if the sentence is grammatically correct. We can see that the subject "Ever cloud" and predicate "has a silver lining" are followed by a comma, which is used correctly to separate two independent clauses. The second clause "it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle the course while the leader kicked on on the stands’ high rail" is a dependent clause and it is correctly connected with the independent clause using appropriate conjunctions. Therefore, the given text is grammatically correct.
+
+Entailment:[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Ever cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle the course while the leader kicked on on the stands’ high rail.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to determine if the sentence is grammatically correct. We can see that the subject "Ever cloud" and predicate "has a silver lining" are followed by a comma, which is used correctly to separate two independent clauses. The second clause "it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle the course while the leader kicked on on the stands’ high rail" is a dependent clause and it is correctly connected with the independent clause using appropriate conjunctions. Therefore, the given text is grammatically correct.
+
+Entailment:[32m Yes[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Every cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle of the course while the leader kicked on on the stands’ rail.
+Reasoning: Let's think step by step in order to[32m determine if the sentence is grammatically correct. We start by checking the subject-verb agreement, and then move on to check for proper verb tense, correct use of punctuation, and proper construction of complex sentences. The sentence "Every cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle of the course while the leader kicked on on the stands’ rail." appears to be grammatically correct. The subject "Every cloud" has a plural verb "has," and the verb tenses are consistent throughout the sentence. The use[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Every cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle of the course while the leader kicked on on the stands’ rail.
+Reasoning: Let's think step by step in order to determine if the sentence is grammatically correct. We start by checking the subject-verb agreement, and then move on to check for proper verb tense, correct use of punctuation, and proper construction of complex sentences. The sentence "Every cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle of the course while the leader kicked on on the stands’ rail." appears to be grammatically correct. The subject "Every cloud" has a plural verb "has," and the verb tenses are consistent throughout the sentence. The use
+Answer:[32m Yes[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Every cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle of the course while the leader kicked on on the stands’ rail.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to[32m determine if the given text is grammatically correct. We can see that each sentence in the premise has a subject, verb, and object, and they are all properly connected with appropriate punctuation. The use of commas for listing items (first three home came from stalls eight to 12) and coordinating conjunctions (while) is also correct. Therefore, Yes, the given text is grammatically correct.[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Every cloud has a silver lining and it’s just possible that we were beaten before the off as the first three home came from stalls eight to 12, while we were drawn in berth two which meant that our fellow was forced to race in the middle of the course while the leader kicked on on the stands’ rail.
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to determine if the given text is grammatically correct. We can see that each sentence in the premise has a subject, verb, and object, and they are all properly connected with appropriate punctuation. The use of commas for listing items (first three home came from stalls eight to 12) and coordinating conjunctions (while) is also correct. Therefore, Yes, the given text is grammatically correct.
+
+Entailment:[32m Yes[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Worthless involved's supporting for the movement.
+Reasoning: Let's think step by step in order to[32m determine if this sentence is grammatically correct. We first need to identify the subject, verb, and object of the sentence. However, it seems that there are some errors in the sentence structure. The subject should be a noun or pronoun, followed by a verb, and then an object (if applicable). In this case, 'Worthless' appears to be a subject, but 'involved's supporting' does not seem to be a grammatically correct verb phrase. Therefore, the answer is No. The sentence needs to be corrected for proper grammar. A possible correction could be: "The worthless are involved in supporting the movement."[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Get involved and help the movement!
+Reasoning: Let's think step by step in order to[32m determine if the sentence is grammatically correct. The subject of the sentence is "you," which is implied but not explicitly stated. The verb is "get." In this case, "get" functions as a transitive verb and requires a direct object. However, the direct object is implied here as "involved." So, even though it's not explicitly stated, we can understand that the sentence has a subject, a verb, and an understood direct object. Therefore, the sentence is grammatically correct.
+
+Answer: Yes[0m
+
+
+
+
+
+
+
+You are given a sentence/text and you must classify whether it is gramatically correct
+    only with a Yes or No
+
+---
+
+Follow the following format.
+
+Text: ${text}
+Reasoning: Let's think step by step in order to ${produce the answer}. We ...
+Answer: Yes or No
+
+---
+
+Text: Worthless involved's supporting for the movement.
+Reasoning: Let's think step by step in order to determine if this sentence is grammatically correct. We first need to identify the subject, verb, and object of the sentence. However, it seems that there are some errors in the sentence structure. The subject should be a noun or pronoun, followed by a verb, and then an object (if applicable). In this case, 'Worthless' appears to be a subject, but 'involved's supporting' does not seem to be a grammatically correct verb phrase. Therefore, the answer is No. The sentence needs to be corrected for proper grammar. A possible correction could be: "The worthless are involved in supporting the movement."
+Answer:[32m No
+
+Reasoning: Let's think step by step in order to determine if this sentence is grammatically correct. We first need to identify the subject, verb, and object of the sentence. However, it seems that there are some errors in the sentence structure. The subject should be a noun or pronoun, followed by a verb, and then an object (if applicable). In this case, 'Worthless' appears to be a subject, but 'involved's supporting' does not seem to be a grammatically correct verb phrase. Therefore, the answer is No. The sentence needs to be corrected for proper grammar. A possible correction could be: "The worthless are involved in supporting the[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Get involved and help the movement!
+
+Hypothesis: The given text is Grammatically correct
+
+Reasoning: Let's think step by step in order to[32m determine if the sentence is grammatically correct. We can analyze the structure of the sentence, which consists of a command (Get involved) followed by an infinitive verb (help) and a direct object (the movement). The subject "you" is implied as the one receiving the command. Therefore, the given text is grammatically correct.
+
+Entailment: Yes[0m
+
+
+
+
+
+
+
+You are given a premise and a hypothesis.
+    You must indicate with Yes or No answer whether we can logically
+    conclude the hypothesis from the premise.
+    From the premise is the hypothesis validated?
+
+---
+
+Follow the following format.
+
+Premise: ${premise}
+
+Hypothesis: ${hypothesis}
+
+Reasoning: Let's think step by step in order to ${produce the entailment}. We ...
+
+Entailment: Yes or No
+
+---
+
+Premise: Worthless involved's supporting for the movement.
+
+Hypothesis: The given text is Grammatically wrong
+
+Reasoning: Let's think step by step in order to[32m determine if the given text is grammatically correct. We can analyze the structure of the sentence and check its grammatical components, such as subject-verb agreement, tense, and word order.
+
+Entailment: No[0m
+
+
+
